@@ -1,0 +1,9 @@
+C:\Users\Mohon Khan\Desktop\xamarin_app\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\Users\Mohon Khan\Desktop\xamarin_app\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\Mohon Khan\Desktop\xamarin_app\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\Mohon Khan\Desktop\xamarin_app\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+C:\Users\Mohon Khan\Desktop\xamarin_app\CommandPattern\CommandPattern\obj\Debug\CommandPattern.Form1.resources
+C:\Users\Mohon Khan\Desktop\xamarin_app\CommandPattern\CommandPattern\obj\Debug\CommandPattern.Properties.Resources.resources
+C:\Users\Mohon Khan\Desktop\xamarin_app\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csproj.GenerateResource.Cache
+C:\Users\Mohon Khan\Desktop\xamarin_app\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+C:\Users\Mohon Khan\Desktop\xamarin_app\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
